@@ -1,4 +1,6 @@
 include <iostream>
 
 int main(){
-cout << "Hello world"
+std:cout << "Hello world"<<std:end;
+return 0;
+}
